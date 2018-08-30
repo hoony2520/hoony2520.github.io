@@ -1,0 +1,8 @@
+.activator {
+	height: 240px; 
+	width: auto; 
+	padding: 20px; 
+	margin: 0 auto;  
+	display: table-cell; 
+	vertical-align: middle;
+}

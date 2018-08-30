@@ -1,7 +1,8 @@
-title: Your awesome title
-name: Your Name
-email: your-email@example.com
-description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+title: Donghun Thomas Han
+name: Donghun Thomas Han
+email: kmraen@gmail.com
+# description: Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+description: Bitcoin Enthusiast | Android Developer
 
 baseurl: "/blog"
 url: ""
@@ -11,26 +12,26 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/startup3.jpg # These are the images used for the parallax background
 parallax_image_two: assets/images/startup3.jpg
 
-project_one: "First Project"
-project_one_description: Describe your project!
-project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one: "CampBX"
+project_one_description: Creating prototype pages based on Google Polymer 1.0  Implemented HTML5 Web Based QR Code scanner controlling smartphones' camera.
+project_one_url: https://campbx.com
 project_one_icon: location_on
 
-project_two: Second Project
-project_two_description: Describe your project!
-project_two_url: https://github.com/jameshamann/jekyll-material-theme
+project_two: Sero
+project_two_description: A video based QnA platform. You can ask not only user but celebrities and get video answers.
+project_two_url: http://company.videofactory.net/en.html
 project_two_icon: photo_camera
 
 
-project_three: Third Project
-project_three_description: Describe your project!
-project_three_url: https://github.com/jameshamann/jekyll-material-theme
+project_three: UMain Detector Apps
+project_three_description: Prototype sensor apps for Las Vegas CES 2018. User can monitor real-time-sensor values over the BLE communication.
+project_three_url: ""
 project_three_icon: hotel
 
 
-project_four: Fourth Project
-project_four_description: Describe your project!
-project_four_url: https://github.com/jameshamann/jekyll-material-theme
+project_four: Chatbot
+project_four_description: It is a chatbot on Kakao Keyboard API. Checking cryptocurrency prices just sending a chat message to the chatbot.
+project_four_url: ""
 project_four_icon: restaurant
 
 portfolio_heading: Portfolio
@@ -144,9 +145,13 @@ skills:
 icon_size: 50 # font-size of icons in px
 colored: colored # Leave blank for black and white icons
 
-project_button: Github
+project_one_button: Bulbul Investments
+project_two_button: VideoFactory
+project_three_button: UMain
+project_four_button: Personal Hobby
 
-github: https://github.com/jameshamann/jekyll-material-theme
+
+github: https://github.com/hoony2520
 medium: https://medium.com
 
 baseurl: # if your site is located at /blog or /home, enter it here, otherwise leave it empty
